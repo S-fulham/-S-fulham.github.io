@@ -1,16 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Wimbledon Player Rackets</title>
+  <title>Player 1 - Racket</title>
 </head>
 <body>
-  <h1>Wimbledon Player Rackets</h1>
-
-  <ul>
-    <li><a href="player1.html">Player 1</a></li>
-    <li><a href="player2.html">Player 2</a></li>
-    <li><a href="player3.html">Player 3</a></li>
-    <!-- Add more players as needed -->
-  </ul>
+  <h1>Player 1</h1>
+  <h2>Racket</h2>
+  <p>Player 1 uses the XYZ Racket model.</p>
 </body>
 </html>
