@@ -9,7 +9,7 @@
   <ul>
     <li><a href="Player1.html">Player 1</a></li>
     <li><a href="Player2.html">Player 2</a></li>
-    <li><a href="player3.html">Player 3</a></li>
+    <li><a href="Player3.html">Player 3</a></li>
     <!-- Add more players as needed -->
   </ul>
 </body>
